@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+venv312/
+env/
+.venv/
+
+# Output images — never upload user photos or results
+output/
+
+# Environment variables — contains secrets, never upload
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
