@@ -1,6 +1,7 @@
 # ✦ FitCheck — AI Virtual Try-On
 
 > Paste any fashion product link. Upload your photo. See how it looks on you.
+> > Currently runs locally — deployment coming soon.
 
 ## Screenshots
 ![UI](screenshot_ui.png)
